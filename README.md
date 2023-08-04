@@ -1,10 +1,10 @@
 # UAS PBO - KELOMPOK 1  
-_Teknik Informatika C - Univ. Islam Balitar- Dosen: Sabitul Kirom, M.Pd_
+_Teknik Informatika C - Univ. Islam Balitar- Dosen: Saiful Nur B, S.Komp,. M.Komp_
 
 ## 😎Anggota Kelompok
 - Mochammad Rhozac &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(22104410002)
 - Mochamad David Hariono &ensp;(22104410003)
-- Latifah Habibita Alif &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; (22104410019)
+- Latifah Habibita Alif &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  (22104410019)
 - Anne Rufaedah	&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(22104410023)
 - Tonny Nasution &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; (22104410038)
 
