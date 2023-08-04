@@ -14,8 +14,5 @@ Soal 1 : program perhitungan harga setelah terkena pajak dengan mengimplementasi
 Soal 2 : program perhitungan yang dibuat berdasarkan flowchart yang tersedia
 
 ## 🎬Video Penjelasan
-Video penjelasan untuk program dapat dilihat [di sini]
+Video penjelasan untuk program dapat dilihat [di sini](https://youtu.be/IW4LOs0hubI)
 > Note: project ini dibuat untuk memenuhi tugas UAS mata kuliah Pemrograman Berorientasi Object.
-
-   [di sini]: <'https://youtu.be/IW4LOs0hubI'>
-
