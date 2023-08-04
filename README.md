@@ -17,5 +17,5 @@ Soal 2 : program perhitungan yang dibuat berdasarkan flowchart yang tersedia
 Video penjelasan untuk program dapat dilihat [di sini]
 > Note: project ini dibuat untuk memenuhi tugas UAS mata kuliah Pemrograman Berorientasi Object.
 
-   [di sini]: <>
+   [di sini]: <'https://youtu.be/IW4LOs0hubI'>
 
